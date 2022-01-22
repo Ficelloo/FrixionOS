@@ -1,4 +1,5 @@
 all:
+	mkdir build
 	nasm -f bin -o build/bootloader src/bootloader.asm
 	nasm -f bin -o build/kernel src/kernel.asm
 	cat build/bootloader build/kernel /dev/zero | dd of=build/floppyA bs=512 count=2880
