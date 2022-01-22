@@ -1,4 +1,4 @@
-# MilkaOS
+# FrixionOS
 Small operating system I have made, I will try to update it frequently
 
 ## Dependencies
