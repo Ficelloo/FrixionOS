@@ -21,7 +21,7 @@ apt-get install nasm
 Clone the repo:
 
 ```bash
-git clone https://github.com/Ficelloo/MilkaOS.git
+git clone https://github.com/Ficelloo/FrixionOS.git
 ```
 
 Now you can compile with this command:
