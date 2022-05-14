@@ -18,6 +18,13 @@ apt-get install build-essentials
 apt-get install nasm
 ```
 
+Arch Linux:
+
+```bash
+pacman -S base-devel
+pacman -S nasm
+```
+
 Clone the repo:
 
 ```bash
